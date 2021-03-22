@@ -1,0 +1,5 @@
+.idea/
+client-app/node_modules/
+server-app/node_modules/
+client-app/.next/
+server-app/dist/
